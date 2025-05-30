@@ -115,6 +115,6 @@ Durante o desenvolvimento deste projeto, aprendi a:
 ## 🧑‍💻 Autor
 
 **laisbastosbg**
-Projeto realizado como parte do curso da DIO - Digital Innovation One.
+Projeto realizado como parte do curso XP Inc. - Cloud com Inteligência Artificial pela plataforma DIO - Digital Innovation One.
 [LinkedIn](https://www.linkedin.com/in/lais-godinho/)
 
